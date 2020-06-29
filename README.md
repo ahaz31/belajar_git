@@ -1,4 +1,4 @@
-# belajar_git.js
+# belajar_git. belom di edit gaes
 Arsitektur &amp; Organisasi Komputer
 
 Clone Code
